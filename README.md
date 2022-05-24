@@ -1,0 +1,1 @@
+# Thực hành Typescript sử dụng Promise #
